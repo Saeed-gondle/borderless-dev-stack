@@ -176,7 +176,7 @@ This section explains the vocabulary. It is not a tax return.
 | [Oyster](https://www.oysterhr.com/) | Global employment | You need a compliant employer of record. |
 | [Multiplier](https://www.usemultiplier.com/) | EOR and contractor management | You are hiring across APAC. |
 | [Velocity Global](https://velocityglobal.com/) | Global employment and immigration | You need employer services plus mobility. |
-| [Atlas HXM](https://www.atlashxm.com/) | Direct EOR | You want an alternative EOR with local entities. |
+| [Globalization Partners](https://www.globalization-partners.com/) | Direct EOR | You want an alternative EOR with local entities. |
 
 **Contractor vs employee:** a contract that says “contractor” does not make someone a contractor. Local law tests control, exclusivity, and integration. Misclassification is expensive.
 
